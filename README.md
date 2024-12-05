@@ -1,59 +1,18 @@
-### Hi, I'm Sebastián! 👋  
+## Hi, I'm Sebastián! 👋  
 
-<h3 align="center">A passionate Frontend Developer from Costa Rica</h3>  
+### About Me:  
+I'm a 19-year-old university student from Costa Rica, currently pursuing a degree in Computer Engineering at the **Tecnológico de Costa Rica (TEC)**. I'm passionate about programming, particularly in the **Frontend sector**, and constantly learning to enhance my skills for future projects and improve my performance for my next job.  
 
-- 🎓 **Currently:**  
-  Studying Computer Engineering at the **Tecnológico de Costa Rica (TEC)**.  
-
-- 💡 **Focus:**  
-  Bringing innovative ideas to life through creative software solutions.  
-
-- 🌱 **Learning:**  
-  Angular and TypeScript to advance my frontend development skills.  
-
-- 🌐 **Projects:**  
-  [Check out my work here](#)
-
-- ⚡ **Fun Fact:**  
-  I enjoy physical activities, socializing, and exploring new tools and trends in tech.  
-
----
+### What I’m working on:  
+- **Currently learning:** Angular and TypeScript.  
+- **Focus:** Bringing innovative ideas to life through creative software solutions.  
 
 
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">  
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-  </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
-  </a>  
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>  
-  </a>  
-</p>  
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
 
----
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sebro08&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-<h3 align="left">My GitHub Stats:</h3>  
-<p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=sebro08&show_icons=true&locale=en" alt="sebro08" />  
-</p>
+
+
