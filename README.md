@@ -1,7 +1,7 @@
 ## Hi, I'm Sebastián! 👋  
 
 ### About Me:  
-I'm a 19-year-old university student from Costa Rica, currently pursuing a degree in Computer Engineering at the **Tecnológico de Costa Rica (TEC)**. I'm passionate about programming, particularly in the **Frontend sector**, and constantly learning to enhance my skills for future projects and improve my performance for my next job.  
+I'm a 20-year-old university student from Costa Rica, currently pursuing a degree in Computer Engineering at the **Tecnológico de Costa Rica (TEC)**. I'm passionate about programming, particularly in the **Frontend sector**, and constantly learning to enhance my skills for future projects and improve my performance for my next job.  
 
 ### What I’m working on:  
 - **Currently learning:** Angular and TypeScript.  
